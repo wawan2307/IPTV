@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,MotoGp
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetAdventure.id" status="online",Biznet Adventure (720p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkey
+#EXTINF:-1 tvg-id="SPOTV.kr" status="online",SPOTV 
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 group-title="IPTV",INDOSIAR
