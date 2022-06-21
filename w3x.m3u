@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,MotoGp
-https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BiznetAdventure.id" status="online",Biznet Adventure (720p)
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkey
 #EXTINF:-1 tvg-id="SPOTV.kr" status="online",SPOTV 
@@ -33,12 +31,8 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",MYTV
-http://playlist.urfan.web.id/x6bnqe/s/s88/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",OCHANNEL
 http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",JAKTV
-http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",DAAITV
 http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 group-title="IPTV",ELSHINTATV
