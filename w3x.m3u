@@ -1,56 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BiznetAdventure.id" status="online",Biznet Adventure (720p)
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkey
-#EXTINF:-1 tvg-id="SPOTV.kr" status="online",SPOTV 
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-#EXTINF:-1 group-title="IPTV",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="IPTV",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 group-title="IPTV",TRANSTV
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1 group-title="IPTV",TRANS7
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
-#EXTINF:-1 group-title="IPTV",KOMPASTV
-http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANTV
-http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="IPTV",TVONE
-http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="IPTV",METROTV
-http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 group-title="IPTV",NETTV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 group-title="IPTV",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
+#EXTINF:-1 group-title="IPTV",INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/16f2e4c0-f193-11ec-967d-e10b1f121c32/3341395/586432407.jpeg" group-title="Nasional", Indosiar Bola
+https://www.streambayu.xyz/bystreamtv/pialapresiden.m3u8
+#EXTINF: -1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/SP5XdyY/mnctv-fix.png" group-title="Nasional", MNC TV HD
+http://203.77.246.50:5000/udp/239.1.3.78:5000
+#EXTINF: -1 tvg-id="rcti" tvg-logo="https://i.ibb.co/4Sdj1Y5/rcti-fix.png" group-title="Nasional", RCTI HD
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+#EXTINF: -1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/HN34RCr/gtv.png" group-title="Nasional", GTV HD
+http://203.77.246.50:5000/udp/239.1.3.68:5000
+#EXTINF:-1 group-title="IPTV",SCTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 group-title="IPTV",ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 group-title="IPTV",KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1 group-title="IPTV",TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 group-title="IPTV",METROTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+#EXTINF: -1 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08g-tqBNa0SJTTkWWlONT9xdv9xhUTjwAeA&usqp=CAU" group-title="Nasional", iNews
+https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 #EXTINF:-1 group-title="IPTV",TVRI
 http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1 group-title="IPTV",BERITASATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUWORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",BERITASATUENGLISH
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 group-title="IPTV",OCHANNEL
-http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
-#EXTINF:-1 group-title="IPTV",DAAITV
-http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
-#EXTINF:-1 group-title="IPTV",ELSHINTATV
-http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="IPTV",RODJATV
-http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
-#EXTINF:-1 group-title="IPTV",QURANTV
-http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="IPTV",SUNNAHTV
-http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIPLUS
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="IPTV",ANIMAX
-http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="IPTV",MKIDZ
-http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
-#EXTINF:-1 group-title="IPTV",TOONKIDZ
-http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+#EXTINF:-1 group-title="Indonesia TV",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1, group-title="STASIUN DAERAH",MADU TV
+http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
+#EXTINF:-1, group-title="STASIUN DAERAH",BBS TV SURABAYA
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+#EXTINF: -1 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0nmDdr-7BIXMPLMzbe2GK9HXvl3j720vZNg&usqp=CAU" group-title="Nasional", Mentari TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="BiznetAdventure.id" status="online",Biznet Adventure (720p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkey
 #EXTINF:-1 group-title="IPTV",HITS
 http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
 #EXTINF:-1 group-title="IPTV",AXN
@@ -89,6 +81,76 @@ http://playlist.urfan.web.id/uq2663/h/h194/index.m3u8
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
 #EXTINF:-1 group-title="IPTV",MCN
 http://playlist.urfan.web.id/uq2663/h/h192/index.m3u8
+#EXTINF:-1 group-title="IPTV",ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="IPTV",ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+#EXTINF:-1 group-title="IPTV",MKIDZ
+http://playlist.urfan.web.id/uq2663/h/h191/index.m3u8
+#EXTINF:-1 group-title="IPTV",TOONKIDZ
+http://playlist.urfan.web.id/x6bnqe/s/s81/01.m3u8
+#EXTINF: -1 tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Sports 1", TVRI Sport
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3317750/582312382.jpeg" group-title="Sports 1", TVRI Sport HD
+http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/163.m3u8
+#EXTINF:-1 tvg-id="SPOTV.kr" status="online",SPOTV 
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3317750/582312383.png" group-title="Sports 1", SPOTV 2
+http://mvtv.tech:33210/live/livejzjsjrr35g/4tkaajfn3Jdj3/3844.m3u8
+#EXTINF: -1 group-title="Sports 1", FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583525454.jpeg" group-title="Sports 1", Sony ten 1 hd
+http://182.50.65.213:8888/udp/239.239.0.33:3001
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583525455.png" group-title="Sports 1", Sony ten 2 hd
+http://182.50.65.213:8888/udp/239.239.0.34:3001
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583543754.jpg" group-title="Sports 1", Beinsports AFC
+http://gplus.live:8080/168573780756/N9UFR0P64W/171694
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583547714.jpg" group-title="Sports 1", Beinsports AFC 1
+http://gplus.live:8080/168573780756/N9UFR0P64W/171695
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583547715.jpg" group-title="Sports 1", Beinsports AFC 2
+http://gplus.live:8080/168573780756/N9UFR0P64W/171696
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583488583.jpeg" group-title="Sports 1", Beinsports 1
+http://stariptv.org:8080/nour2020/123456/15560
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583488584.jpeg" group-title="Sports 1", Beinsports 2
+http://stariptv.org:8080/nour2020/123456/15559
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583523987.jpeg" group-title="Sports 1", Beinsports 3
+http://stariptv.org:8080/nour2020/123456/15558
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583523988.jpeg" group-title="Sports 1", Beinsports 4
+http://stariptv.org:8080/nour2020/123456/15557
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583523989.jpeg" group-title="Sports 1", Beinsports 5
+http://stariptv.org:8080/nour2020/123456/15556
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583523992.png" group-title="Sports 1", Beinsports 6
+http://stariptv.org:8080/nour2020/123456/15555
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583523993.jpeg" group-title="Sports 1", Beinsports 7
+http://stariptv.org:8080/nour2020/123456/15720
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524080.jpeg" group-title="Sports 1", Beinsports 1 eng
+http://stariptv.org:8080/nour2020/123456/112461
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524081.jpeg" group-title="Sports 1", Beinsports 2 eng
+http://stariptv.org:8080/nour2020/123456/112462
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524082.jpeg" group-title="Sports 1", Beinsports 3 eng
+http://stariptv.org:8080/nour2020/123456/112463
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524083.jpeg" group-title="Sports 1", Beinsports 1 premium
+http://stariptv.org:8080/nour2020/123456/15563
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524224.jpeg" group-title="Sports 1", Beinsports 2 premium
+http://stariptv.org:8080/nour2020/123456/15562
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583524225.jpeg" group-title="Sports 1", Beinsports 3 premium
+http://stariptv.org:8080/nour2020/123456/15561
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583488335.jpeg" group-title="Sports 1", Beinsports extra 1
+https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583488336.jpeg" group-title="Sports 1", Beinsports xtra 2
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583967211.jpeg" group-title="Sports 1", Sky sports
+https://tv3.calcio02.pw/live/moto.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/583969820.jpeg" group-title="Sports 1", Bt sports
+https://birutv.com/sport@birutv/live/bt2.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/30d83d70-ec44-11ec-85c4-29e7edff0446/3322989/584075575.png" group-title="Sports 1", Bt sports 3
+http://makanja.xyz/beleng/premium33/chunks.m3u8
+#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+#EXTINF:-1 group-title="IPTV",EGGNETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="IPTV",PLAY
 http://playlist.urfan.web.id/x6bnqe/s/s37/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",DFC
@@ -99,6 +161,38 @@ http://playlist.urfan.web.id/dr9445/h/h28/01.m3u8
 http://playlist.urfan.web.id/x6bnqe/s/s36/S4/mnf.m3u8
 #EXTINF:-1 group-title="IPTV",SHOWBIZ
 http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="IPTV",DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 group-title="IPTV",ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" , Kugo 1 (720p)
+https://bravo.kugo.id/kugoone/udp.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" , Kugo 1 (720p)
+https://alfa.kugo.id/playout/kugo1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" , kugo Star (576i)
+https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" , kugo Star (576i)
+https://bravo.kugo.id/kugostar/udp.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-musik-id.png" , POP musik (576i)
+https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" , Maleo (576i)
+https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangdut-tivi-id.png" , Dangdut Tivi (576p)
+https://bravo.kugo.id/dangduttivi/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/radio-kita-tv-id.png" , RadioKita TV (360p) [Geo-blocked]
+https://h1.intechmedia.net/intech/ch16.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" , TV9 Nusantara (720p)
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/saling-sapa-tv-id.png" , Saling Sapa TV (576p)
+https://bravo.kugo.id/salingsapa/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bahjah_tv_id.png" , Al-Bahjah TV (720p)
+https://alfa.kugo.id/live/albahjah.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPTV",RODJATV
+http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 group-title="IPTV",QURANTV
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 group-title="IPTV",SUNNAHTV
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="IPTV",CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
 #EXTINF:-1 group-title="IPTV",NHKWORLD
@@ -127,12 +221,6 @@ http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 #EXTINF:-1 group-title="IPTV",STYLE
 http://playlist.urfan.web.id/dr9445/h/h01/01.m3u8
-#EXTINF:-1 group-title="IPTV",FIGHTSPORTS
-http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
-#EXTINF:-1 group-title="IPTV",MOTORVISIONTV
-http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
-#EXTINF:-1 group-title="IPTV",EGGNETWORK
-http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="IPTV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="IPTV",ADITV
