@@ -17,12 +17,18 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 http://202.150.161.114:8000/play/RCTI
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI+
 https://d-rcti.rctiplus.id/RCTI2022.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI+ 2
+https://d-rcti.rctiplus.id/RCTI2022-avc1_200000=1-mp4a_128000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="Lokal",GTV
 http://103.167.167.5:8111/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV +
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV+
 https://d-gtv.rctiplus.id/GTV2021.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV+ 2
+https://d-gtv.rctiplus.id/GTV2021-avc1_450000=4-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC+
 https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC+ 2
+https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_450000=4-mp4a_96000=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 2
