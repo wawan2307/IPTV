@@ -15,8 +15,14 @@ https://devds.site/api/indihoy/hls.m3u8?ch=transtv
 http://103.167.167.5:8111/play/a01c/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c7/RCTI_Logo.svg/revision/latest/scale-to-width-down/640?cb=20160314104216" group-title="Lokal",RCTI+
 http://202.150.161.114:8000/play/RCTI
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="Lokal",GTV FHD
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI+
+https://d-rcti.rctiplus.id/RCTI2022.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="Lokal",GTV
 http://103.167.167.5:8111/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV +
+https://d-gtv.rctiplus.id/GTV2021.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC+
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 2
@@ -51,6 +57,8 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 https://devds.site/api/indihoy/hls.m3u8?ch=magna
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Lokal",Magna 2
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="Lokal",iNews+
+https://d-inews.rctiplus.id/INEWS2022.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY3GkngF/kompas2.png" group-title="Lokal",KOMPASTV
 https://geocities.ws/ariev7xx/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY3GkngF/kompas2.png" group-title="Lokal",KOMPASTV 2
