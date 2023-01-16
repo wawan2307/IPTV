@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Lokal",Trans 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",TRANS7 HD
 https://devds.site/api/v.m3u8?ch=trans7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",TRANS 7 FHD
 https://devds.site/api/indihoy/hls.m3u8?ch=trans7
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/c4/14/c6c414913a1071e00bbb510f3fab157e.png" group-title="Lokal",Trans TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal",TRANSTV HD
 https://devds.site/api/v.m3u8?ch=transtv
@@ -17,21 +17,21 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 http://202.150.161.114:8000/play/RCTI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLdLcbF3/gtv.png" group-title="Lokal",GTV FHD
 http://103.167.167.5:8111/play/a014/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 2
 https://devds.site/api/v.m3u8?ch=indosiar
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 3
 https://geocities.ws/ariev7xx/indosiar.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/I/indosiar-logo-A53509F619-seeklogo.com.png" group-title="Lokal",Indosiar 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",INDOSIAR 4
 http://210.210.155.37/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="Lokal",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="Lokal",SCTV 2
 https://devds.site/api/v.m3u8?ch=sctv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="Lokal",SCTV 3
 https://geocities.ws/ariev7xx/sctv.m3u8
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/f/fb/SCTV_Logo.svg.png/revision/latest?cb=20121226014247" group-title="Lokal",SCTV 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="Lokal",SCTV 4
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="Lokal",NET 1
 https://devds.site/api/v.m3u8?ch=net
@@ -65,9 +65,9 @@ http://202.150.161.114:8000/play/tvOne
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Lokal",Metro TV 2
 https://hls.youtb.workers.dev/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="Lokal",METROTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="Lokal",METROTV 
 https://devds.site/api/v.m3u8?ch=metrotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="Lokal",METROTV FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="Lokal",METROTV 2
 https://geocities.ws/ariev7xx/metrotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="Lokal",BERITA SATU
 https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
@@ -87,8 +87,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2J1Gz30/jtv2.png" group-title="Lokal",JTV 2
 https://devds.site/api/v.m3u8?ch=jtv
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/jitvu.png" group-title="Lokal",JITV
-https://devds.site/api/v.m3u8?ch=jitv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w9MF0NH/mytv2.png" group-title="Lokal",MYTV
 https://devds.site/api/indihoy/hls.m3u8?ch=mytv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26f1CH9g/daii2.png" group-title="Lokal",DAAI TV
@@ -155,7 +153,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmqnCRjF/mutv.png" group-title="Sport",MU TV
 https://bystream.my.id/sports/mutv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS 2",MU TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="Sport",MU TV 2
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2jBftY8v/barcatv.png" group-title="Sport",Barca tv
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/1170.m3u8
@@ -187,7 +185,7 @@ http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/283053.m3u8
 https://m3u-editor.com/serve/cdef8d50-7647-11ed-af97-236d70daa3d8/709048572
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="Sport",Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1, group-title="Sport",Fight Sport
+#EXTINF:-1, group-title="Sport",Fight Sports 2
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, group-title="Sport",WWE
 http://185.59.223.102:8080/wwe/index.m3u8
@@ -195,10 +193,6 @@ http://185.59.223.102:8080/wwe/index.m3u8
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1, group-title="Sport",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",Usee Sport
-http://pprotv.com:80/live/20042004/20202020/39554.ts
-#EXTINF:-1, group-title="Sport",Usee Sports 2
-http://pprotv.com:80/live/20042004/20202020/39555.ts
 #EXTINF:-1, group-title="Music",Kugo Star
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="Music",POP musik
