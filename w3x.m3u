@@ -95,24 +95,6 @@ http://rr1.dens.tv/h/h16/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvHQpmBy/20221111-162032.png" group-title="Hiburan",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B63ZV2hv/20221111-162052.png" group-title="Hiburan",GEM
-http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCXtHc5z/20221111-162205.png" group-title="Hiburan",EGG Network
-http://210.210.155.37/uq2663/h/h22/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC4whMv4/20220926-200436.png" group-title="Hiburan",DreamWorks
-http://iptvid.my.id/hmm/drmwrk.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0PMnwbB/20220926-161425.png" group-title="Hiburan",Paramount Network
-http://iptvid.my.id/hmm/paramount.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26ffKVfn/20220927-135929.png" group-title="Hiburan",Zee Bioskop
-http://iptvid.my.id/hmm/zeeb.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ306S6v/20221111-162243.png" group-title="Hiburan",Citra Drama
-http://iptvid.my.id/hmm/cdrama.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDwnjTVq/20221026-004851.png" group-title="Hiburan",Insert
-http://iptvid.my.id/hmm/insert.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/154d0hFC/20221026-004723.png" group-title="Hiburan",RRI NET
-http://iptvid.my.id/hmm/rrinet.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdXZYKhf/20221026-010322.png" group-title="Kids",Davinci Kids
-http://iptvid.my.id/hmm/davinci.m3u8
 #EXTINF:-1, group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (720p)
@@ -123,10 +105,6 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://185.59.223.102:8080/disney/index.m3u8
 #EXTINF:-1, group-title="Kids",Disney Junior
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBCGLJR5/20221026-010229.png" group-title="Kids",Horee
-http://iptvid.my.id/hmm/horee.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBCGLJR5/20221026-010229.png" group-title="Kids",Horee 2
-http://tv.zonanime.my.id/vidio/horee.m3u8
 #EXTINF:-1, group-title="Kids",Happy Kids JR
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="Kids",PBS Kids
@@ -223,8 +201,6 @@ http://185.59.223.102:8080/wwe/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="Sport",UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkKZSShR/20220927-055957.png" group-title="Music",MUSICA
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
 #EXTINF:-1, group-title="Music",Kugo Star
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dfnl0nf.png" group-title="Music",POP musik
@@ -241,60 +217,18 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master.m3
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd84y7Hh/mtv-vma.png" group-title="Music",MTV VMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxbWzFQm/20221120-103906.png" group-title="TV Dunia",Amarin TV
-https://smart-tv.livedoomovies.com:4431/02_AMARINHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss9R5nbw/20221120-104007.png" group-title="TV Dunia",PPTV HD
-https://smart-tv.livedoomovies.com:4431/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5qxH3kb/20221120-103914.png" group-title="TV Dunia",True4U
-https://smart-tv.livedoomovies.com:4431/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4DVzWzV/20221025-062430.png" group-title="TV Dunia",TV 1 (Malaysia)
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6cdq0Jq/20221025-062414.png" group-title="TV Dunia",TV 2 (Malaysia)
-http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1t5bxkjd/20221025-062357.png" group-title="TV Dunia",TV 3 (Malaysia)
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkXqb4M6/20221025-062337.png" group-title="TV Dunia",TV 6 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0RNX8wV/20221025-062133.png" group-title="TV Dunia",Astro Awani (Malaysia)
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q5SXRkZ/20221025-062053.png" group-title="TV Dunia",Drama Sangat (Malaysia)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxWwrkfj/20221025-062111.png" group-title="TV Dunia",TV Okey (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SK4wd27k/20221025-062308.png" group-title="TV Dunia",TV 7 (Malaysia)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KY5CHGJL/20221025-062249.png" group-title="TV Dunia",TV 8 (Malaysia)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xXqkrM6/20221025-062024.png" group-title="TV Dunia",TV 9 (Malaysia)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM1PMhHc/20221025-062150.png" group-title="TV Dunia",Astro Citra (Malaysia)
-https://tvmalaysia.xyz/hls/citra.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4Y6w3bC/20221025-062205.png" group-title="TV Dunia",Astro Ria (Malaysia)
-http://51.79.82.208:16007
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0fxQQpQ/20221026-001648.png" group-title="TV Dunia",Astro Prima (Malaysia)
-http://51.79.82.208:16008
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7bxRW5y/20221026-001659.png" group-title="TV Dunia",Astro Warna (Malaysia)
-http://23.237.10.66:16424
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2KD9xyM/20221026-001710.png" group-title="TV Dunia",Astro Oasis (Malaysia)
-http://51.79.82.208:16009
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRNXCQPY/20221026-001629.png" group-title="TV Dunia",Boo HD (Malaysia)
-http://23.237.10.66:16420
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHc1y6jB/20221111-162007.png" group-title="TV Dunia",KBS World
-http://iptvid.my.id/hmm/kbsw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KNN SBS (Korea)
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KBC SBS (Korea)
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1356014963.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1tYtfDcn/20221120-110016.png" group-title="TV Dunia",MBC HD (Korea)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1655101362.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmhDwJ4v/20221120-110001.png" group-title="TV Dunia",JTBC (Korea)
-https://apichvod11.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zf83MzGB/20221120-105948.png" group-title="TV Dunia",CBS HD (Korea)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhvC0jZg/20221120-110044.png" group-title="TV Dunia",TV Chosun 1 (Korea)
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s3/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhvC0jZg/20221120-110044.png" group-title="TV Dunia",TV Chosun 2 (Korea)
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwN8tpQ/20221120-110030.png" group-title="TV Dunia",EBS 1 (Korea)
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwN8tpQ/20221120-110030.png" group-title="TV Dunia",EBS 2 (Korea)
