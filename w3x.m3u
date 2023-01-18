@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",TRANS7 SD
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIzIDU6MTM6MDYgQU0maGFzaF92YWx1ZT1GWFJ6dWlwenE3VExWSUloQ1R4ejBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTQxOTUyMTA4fDIwMi42Ny40MC4xMA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",TRANS7 HD
 https://devds.site/api/v.m3u8?ch=trans7
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/c4/14/c6c414913a1071e00bbb510f3fab157e.png" group-title="Lokal",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal",TRANSTV SD
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIzIDU6MTM6MDYgQU0maGFzaF92YWx1ZT1GWFJ6dWlwenE3VExWSUloQ1R4ejBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTQxOTUyMTA4fDIwMi42Ny40MC4xMA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0Xw8GJ3/transtv3.png" group-title="Lokal",TRANSTV HD
 https://devds.site/api/v.m3u8?ch=transtv
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Lokal",RCTI
@@ -39,6 +43,8 @@ https://devds.site/api/v.m3u8?ch=net
 https://devds.site/api/indihoy/hls.m3u8?ch=net
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWQJHvP/anttv2.png" group-title="Lokal",ANTV
 https://devds.site/api/v.m3u8?ch=antv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWQJHvP/anttv2.png" group-title="Lokal",ANTV SD
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIzIDU6MTM6MDYgQU0maGFzaF92YWx1ZT1GWFJ6dWlwenE3VExWSUloQ1R4ejBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTQxOTUyMTA4fDIwMi42Ny40MC4xMA==
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3r9nZjk/rtv2.png" group-title="Lokal",RTV
 https://devds.site/api/v.m3u8?ch=rtv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T3r9nZjk/rtv2.png" group-title="Lokal",RTV 2
@@ -81,8 +87,6 @@ https://devds.site/api/indihoy/hls.m3u8?ch=beritasatu
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="Lokal",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tDRyz8h/antara2.png" group-title="Lokal",ANTARA
-https://devds.site/api/v.m3u8?ch=antara
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqnjKFGh/inews.pnghttps://i.postimg.cc/Y26CKRx5/tvri2.png" group-title="Lokal",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Hiburan",Biznet Lifestyle
@@ -117,20 +121,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2J1Gz30/jtv2.png" group-title="Lokal",JTV 2
 https://devds.site/api/v.m3u8?ch=jtv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w9MF0NH/mytv2.png" group-title="Lokal",MYTV
-https://devds.site/api/indihoy/hls.m3u8?ch=mytv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/26f1CH9g/daii2.png" group-title="Lokal",DAAI TV
-https://devds.site/api/v.m3u8?ch=daai
+#EXTINF:-1 group-title="Lokal",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="Lokal", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="Lokal",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26f1CH9g/daii2.png" group-title="Lokal",DAAI TV
+https://devds.site/api/v.m3u8?ch=daai
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kt2kOGH.png" group-title="Lokal",JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTINF:-1 group-title="Lokal",BBS
 http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1 group-title="Lokal", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 group-title="Lokal",Madu TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="Lokal", Elshinta
+https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/elshintatv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDIzIDU6MTM6MDYgQU0maGFzaF92YWx1ZT1GWFJ6dWlwenE3VExWSUloQ1R4ejBRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9LTQxOTUyMTA4fDIwMi42Ny40MC4xMA==
 #EXTINF:-1 group-title="Lokal",Jogja TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Lokal",TVKU
