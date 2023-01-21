@@ -28,7 +28,7 @@ http://103.167.167.5:8111/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Lokal",GTV+
 https://d-gtv.rctiplus.id/GTV2021.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165054
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Lokal",MNC+
 https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tRkjgrmW/indo22.png" group-title="Lokal",Indosiar 
@@ -113,8 +113,6 @@ https://hls.youtb.workers.dev/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
 https://devds.site/api/v.m3u8?ch=metrotv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="Lokal",Metro TV 5
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165059
-#EXTINF:-1,group-title="Lokal",MNC News
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165058
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="Lokal",BERITA SATU 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="Lokal",BERITA SATU 2
