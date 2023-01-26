@@ -125,6 +125,52 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Hiburan",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:-1,group-title="Hiburan",Zee Bioskop
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157584
+#EXTINF:-1,group-title="Hiburan",HBO
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
+#EXTINF:-1,group-title="Hiburan",HBO Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
+#EXTINF:-1,group-title="Hiburan",Warner TV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157594
+#EXTINF:-1,group-title="Hiburan",AXN
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165079
+#EXTINF:-1,group-title="Hiburan",Hits
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165085
+#EXTINF:-1,group-title="Hiburan",Hits Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/221947
+#EXTINF:-1,group-title="Hiburan",Thrill
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157580
+#EXTINF:-1,group-title="Hiburan",History
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162519
+#EXTINF:-1,group-title="Hiburan",HGTV
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157578
+#EXTINF:-1,group-title="Hiburan",ANIMAL PLANET
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
+#EXTINF:-1,group-title="Hiburan",Nat Geo
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165094
+#EXTINF:-1,group-title="Hiburan",Discovery
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
+#EXTINF:-1,group-title="Hiburan",Crime+ Investigation
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165052
+#EXTINF:-1,group-title="Hiburan",Fox Crime
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165076
+#EXTINF:-1,group-title="Hiburan",Fox Life
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165083
+#EXTINF:-1,group-title="Hiburan",Sony One
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
+#EXTINF:-1,group-title="Hiburan",TVN Movies
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157596
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvHQpmBy/20221111-162032.png" group-title="Hiburan",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2fjykbee" group-title="Hiburan",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/techstorm.png" group-title="Hiburan",Techstorm
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6bxxyss" group-title="Hiburan",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+#EXTINF:-1, group-title="Hiburan",Action Movies
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pgx5Nf3/95-removebg-preview.png" group-title="Hiburan",My Cinema
 http://rr.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g936QNF/109.png" group-title="Hiburan",My Cinema Asia
@@ -135,18 +181,8 @@ http://rr.dens.tv/h/h194/index.m3u8
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1, group-title="Hiburan",Rock Entertainment 
 http://rr1.dens.tv/h/h16/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q
-#EXTINF:-1, group-title="Hiburan",Action Movies
-http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvHQpmBy/20221111-162032.png" group-title="Hiburan",K+
-http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2fjykbee" group-title="Hiburan",Smithsonian Channel
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GFOpaPo.png" group-title="Hiburan",Learning & Knowledge
 http://rr.dens.tv/h/h97/index.m3u8
-#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/techstorm.png" group-title="Hiburan",Techstorm
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y6bxxyss" group-title="Hiburan",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Dens TV",Dens Food Channel
 http://rr3.dens.tv/s/s50/live.m3u8
 #EXTINF:-1 group-title="Dens TV",Dens Learning & Knowledge
@@ -195,48 +231,12 @@ http://rr.dens.tv/h/h18/index.m3u8
 http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="Dens TV",Thrill
 http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1,group-title="Hiburan",Thrill 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157580
 #EXTINF:-1 group-title="Dens TV",tvN
 http://rr1.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 group-title="Dens TV",tvN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 #EXTINF:-1 group-title="Dens TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index10.m3u8
-#EXTINF:-1,group-title="Hiburan",Zee Bioskop 2
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157584
-#EXTINF:-1,group-title="Hiburan",HBO
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197972
-#EXTINF:-1,group-title="Hiburan",HBO Hits
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/196480
-#EXTINF:-1,group-title="Hiburan",History
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/162519
-#EXTINF:-1,group-title="Hiburan",Hits
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165085
-#EXTINF:-1,group-title="Hiburan",Hits Movies
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/221947
-#EXTINF:-1,group-title="Hiburan",HGTV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157578
-#EXTINF:-1,group-title="Hiburan",ANIMAL PLANET
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157532
-#EXTINF:-1,group-title="Hiburan",Nat Geo
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165094
-#EXTINF:-1,group-title="Hiburan",Discovery
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157597
-#EXTINF:-1,group-title="Hiburan",Warner TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157594
-#EXTINF:-1,group-title="Hiburan",AXN
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165079
-#EXTINF:-1,group-title="Hiburan",Crime+ Investigation
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165052
-#EXTINF:-1,group-title="Hiburan",Fox Crime
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165076
-#EXTINF:-1,group-title="Hiburan",Fox Life
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165083
-#EXTINF:-1,group-title="Hiburan",Sony One
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
-#EXTINF:-1,group-title="Hiburan",TVN Movies
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157596
 #EXTINF:-1 group-title="Dens TV",ANIPLUS
 http://rr1.dens.tv/h/h02/index10.m3u8
 #EXTINF:-1 group-title="Dens TV",My Kidz
