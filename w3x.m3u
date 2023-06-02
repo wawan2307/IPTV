@@ -1,4 +1,12 @@
 #EXTM3U
+
+###LIVE###
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Indonesia", ID: 01. ETV Live Event
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298491
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Indonesia", ID: 02. ETV Live Event 02
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298492
+
+###NASIONAL###
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Lokal",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpS6WDDn/trans7-2.png" group-title="Lokal",TRANS7 2
@@ -38,7 +46,7 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/196457
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/5e_SO5CvkUfCpWPw6bn4elwsjjjZ211oI5OWXFbz6mTRR-HNWRHcnN7mRweDTdY4.png" group-title="Lokal",Moji
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298550
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/5e_SO5CvkUfCpWPw6bn4elwsjjjZ211oI5OWXFbz6mTRR-HNWRHcnN7mRweDTdY4.png" group-title="Lokal",Moji 2
-http://103.152.118.53:80/streams/moji/index.m3u8
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="Lokal",Magna
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="Lokal",iNews
@@ -59,10 +67,22 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqnjKFGh/inews.pnghttps://i.postimg.cc/Y26CKRx5/tvri2.png" group-title="Lokal",TVRI
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/162504
+
+###HIBURAN###
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="Hiburan",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="Hiburan",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+#EXTINF:-1 group-title="Hiburan", Rock Extreme
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298566
+#EXTINF:-1 group-title="Hiburan", Rock Entertaiment
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298565
+#EXTINF:-1 group-title="Hiburan", Rock Action
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298490
+#EXTINF:-1 group-title="Hiburan", Warner TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157594
+#EXTINF:-1 group-title="Hiburan", Cinemax
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/197964
 #EXTINF:-1 group-title="Hiburan", HBO
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197972
 #EXTINF:-1 group-title="Hiburan", HBO Hits
@@ -81,24 +101,38 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165079
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://www.techstorm.tv/wp-content/uploads/2021/09/BrilliantAmaranth-Black-Text-website.png" group-title="Hiburan",Techstorm
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298572
+
+###KIDS###
+#EXTINF:-1, group-title="Kids",Baby Bus
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/298494
 #EXTINF:-1, group-title="Kids",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="Kids",Biznet Kids (720p)
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
-#EXTINF:-1, group-title="Kids",Happy Kids JR
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1, group-title="Kids",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1, group-title="Kids",Horee!
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264750
+#EXTINF:-1, group-title="Kids",Hip Hip Horee!
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298536
 #EXTINF:-1, group-title="Kids",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, group-title="Kids",Boomerang
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165109
 #EXTINF:-1, group-title="Kids",Cartoon Network 
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157593
-#EXTINF:-1, group-title="Kids",Horee!
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/264750
-#EXTINF:-1, group-title="Kids",Hip Hip Horee!
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298536
+#EXTINF:-1, group-title="Kids",Nick Jr
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/165107
+#EXTINF:-1, group-title="Kids", Nickelodeon 
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/162510
+#EXTINF:-1, group-title="Kids",CBeebies
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/247448
+#EXTINF:-1, group-title="Kids",Baby TV
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/157605
+#EXTINF:-1, group-title="Kids",Happy Kids JR
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+###LOKAL###
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="Kids",Mentari TV
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298546
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="Lokal",JTV
@@ -117,8 +151,6 @@ https://devds.site/api/v.m3u8?ch=daai
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTINF:-1 group-title="Lokal",BBS
 http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1 group-title="Lokal", Elshinta
-https://edge.nim.mivo.tv/wm3d5ndxxds8h3kr/elshintatv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIzIDEwOjE2OjM4IEFNJmhhc2hfdmFsdWU9MVlad08xZ2ZiTFQwM09MVWVXUTVJZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk3ODk1MjB8MTE2LjIwNi40MC4zMA==
 #EXTINF:-1 group-title="Lokal",Jogja TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Lokal",TVKU
@@ -139,6 +171,8 @@ https://v2.siar.us/aditv/livestream/chunks.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XX5wGHQ.png" group-title="Lokal",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
+
+###SPORTS###
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjQLznFT/tsn3.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Sport",TVRI Sports
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43S8Jv02/allsports.png" group-title="Sport",All Sports
@@ -167,6 +201,8 @@ http://185.59.223.102:8080/wwe/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRDn679/kok-BEARTV.png" group-title="Sport",UFC
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+###MUSIK###
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/The-Indonesia-Channel-live-vipotv.png" group-title="Music",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 #EXTINF:-1, group-title="Music",Music TV
@@ -187,6 +223,8 @@ http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master.m3
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd84y7Hh/mtv-vma.png" group-title="Music",MTV VMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+###DUNIA###
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HkXqb4M6/20221025-062337.png" group-title="TV Dunia",TV 6 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxWwrkfj/20221025-062111.png" group-title="TV Dunia",TV Okey (Malaysia)
@@ -203,6 +241,8 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RwN8tpQ/20221120-110030.png" group-title="TV Dunia",EBS 2 (Korea)
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/chunklist.m3u8
+
+###RELIGI###
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPjWyiL.png" group-title="Religi",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rR2iPBk.png" group-title="Religi",tvMu
